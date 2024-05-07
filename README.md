@@ -1,4 +1,4 @@
-## About Medini Aithal :woman_office_worker:
+## About Me :star2:
 I graduated with a Bachelor's degree in Information Science and Engineering from NMAM Institute of Technology in India in 2021. During my time there, l also completed an internship at Quality Theorem in Bengaluru, where I worked on developing web pages and connecting them to databases using HTML, CSS, PHP, and MySQL technologies for an online examination system project.
 
 Following my education, I joined Mercedes Benz Research and Development in India (MBRDI) as a Consultant from August 2021 to January 2024. In this role, I was heavily involved in DevOps practices, particularly in designing and implementing CI/CD pipelines using Maven, Sonar, Artifactory, Blackduck, Docker, and Kubernetes. I collaborated closely with various project teams to manage on-premises clusters, contribute to and maintain Flux-CD with Kustomize builds for automated deployments, and set up CaaS clusters with necessary components like Traefik controllers and certificate managers.
