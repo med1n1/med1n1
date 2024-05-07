@@ -1,5 +1,5 @@
 ## About Me :star2:
-I graduated with a Bachelor's degree in Information Science and Engineering from NMAM Institute of Technology in India in 2021. During my time there, l also completed an internship at Quality Theorem in Bengaluru, where I worked on developing web pages and connecting them to databases using HTML, CSS, PHP, and MySQL technologies for an online examination system project.
+<!-- I graduated with a Bachelor's degree in Information Science and Engineering from NMAM Institute of Technology in India in 2021. During my time there, l also completed an internship at Quality Theorem in Bengaluru, where I worked on developing web pages and connecting them to databases using HTML, CSS, PHP, and MySQL technologies for an online examination system project.
 
 Following my education, I joined Mercedes Benz Research and Development in India (MBRDI) as a Consultant from August 2021 to January 2024. In this role, I was heavily involved in DevOps practices, particularly in designing and implementing CI/CD pipelines using Maven, Sonar, Artifactory, Blackduck, Docker, and Kubernetes. I collaborated closely with various project teams to manage on-premises clusters, contribute to and maintain Flux-CD with Kustomize builds for automated deployments, and set up CaaS clusters with necessary components like Traefik controllers and certificate managers.
 
@@ -10,7 +10,7 @@ I also took the initiative to mentor fellow team members and new hires in DevOps
 
 Outside of my professional experience, I have developed proficiency in a wide range of programming languages, including Java, JavaScript, HTML, CSS, and Bash, as well as various DevOps tools such as Kubernetes, Docker, Terraform, and Prometheus, among others.
 
-I am currently located in Swindon with an active right to work status. I am open to work in-office/hybrid/Remote
+I am currently located in Swindon with an active right to work status. I am open to work in-office/hybrid/Remote -->
 
 ## Resume :page_facing_up:
 You can find my [Resume](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf) here. 
