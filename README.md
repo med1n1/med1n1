@@ -48,4 +48,5 @@ Bachelor's Degree in Information Science and Engineering from [NMAM Institute of
 *  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/medini-aithal-b11bb1179)
 &nbsp;
 *  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub ](https://github.com/med1n1)
+*  https://img.shields.io/badge/LinkedIn-blue
   
