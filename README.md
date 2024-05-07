@@ -17,12 +17,20 @@ Outside of my professional experience, I have developed proficiency in a wide ra
 I am currently located in Swindon with an active right to work status. I am open to work in-office/hybrid/Remote -->
 
 ## :page_facing_up: Resume 
-Detailed description about my professional experience can be found [here](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf). 
+Detailed description of my professional experience can be found [here](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf). 
+
+## Education 
+Bachelor's Degree in Information Science and Engineering from [NMAM Institute of Technology, India](https://nmamit.nitte.edu.in/)
 
 ## :tada: Achivements 
 - :star: [Silver Star](https://github.com/med1n1/med1n1/blob/test/Files/silver-award-certificate-MBRDI.pdf) for my contribution in MBRDI
 - :2nd_place_medal: Graduted my bachelor's with silver award 
-- :trophy: Best outgoing student for the batch 2017-21  
+- :trophy: Best outgoing student for the batch 2017-21
+
+## Projects and Files
+* [Java Project](https://github.com/med1n1/Project_Java)
+* [Sample Azure pipeline](https://github.com/med1n1/mslearn-tailspin-spacegame-web/blob/main/azure-pipelines.yml)
+  
 
 ## Skills
 ### Languages
@@ -62,13 +70,11 @@ Detailed description about my professional experience can be found [here](https:
 </div>
 
 ### Agile experience 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-line-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   
-## Projects and Files
-* [Java Project](https://github.com/med1n1/Project_Java)
-* [Sample Azure pipeline](https://github.com/med1n1/mslearn-tailspin-spacegame-web/blob/main/azure-pipelines.yml)
+
 
 ## Certificates and Training
 * [Internship Certificate](https://github.com/med1n1/med1n1/blob/test/Files/internship-certificate.pdf)
@@ -79,8 +85,7 @@ Detailed description about my professional experience can be found [here](https:
   - [Manage Agile software delivery plans across teams](https://github.com/med1n1/med1n1/blob/test/Files/Azure-achievments/Manage%20Agile%20software%20delivery%20plans%20across%20teams.pdf)
   - [Create a build pipeline with Azure Pipelines](https://github.com/med1n1/med1n1/blob/test/Files/Azure-achievments/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines.pdf)
 
-## Education 
-Bachelor's Degree in Information Science and Engineering from [NMAM Institute of Technology, India](https://nmamit.nitte.edu.in/) 2017-2021
+
 
 ## Contact Me
 * :house: Swindon, United Kingdom 
@@ -89,5 +94,4 @@ Bachelor's Degree in Information Science and Engineering from [NMAM Institute of
 *  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/medini-aithal-b11bb1179)
 &nbsp;
 *  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub ](https://github.com/med1n1)
-*  https://img.shields.io/badge/LinkedIn-blue
   
