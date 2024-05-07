@@ -12,12 +12,12 @@ Outside of my professional experience, I have developed proficiency in a wide ra
 
 
 ## Resume
-You can find my resume here. 
+You can find my [Resume](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf) here. 
 
 ## Achivements
-- Silver award for my contribution in MBRDI
+- [Silver Star](https://github.com/med1n1/med1n1/blob/test/Files/silver-award-certificate-MBRDI.pdf) for my contribution in MBRDI
 - Graduted my bachelor's with silver award :2nd_place_medal:
-- Best outgoing student for the batch 2017-21 :trophy:
+- Best outgoing student for the batch 2017-21 :trophy: 
 
 ## Skills
 
@@ -25,7 +25,9 @@ You can find my resume here.
 * [Java Project](https://github.com/med1n1/Project_Java)
 * [Sample Azure pipeline](https://github.com/med1n1/mslearn-tailspin-spacegame-web/blob/main/azure-pipelines.yml)
 
-## Training
+## Certificates and Training
+* [Internship Certificate](https://github.com/med1n1/med1n1/blob/test/Files/internship-certificate.pdf)
+
 
 ## Contact Me
 * :house: Swindon, United Kingdom 
