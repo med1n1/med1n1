@@ -36,7 +36,7 @@ You can find my [Resume](https://github.com/med1n1/med1n1/blob/test/Files/Resume
   - [Create a build pipeline with Azure Pipelines](https://github.com/med1n1/med1n1/blob/test/Files/Azure-achievments/Create%20a%20build%20pipeline%20with%20Azure%20Pipelines.pdf)
 
 ## Education 
-Bachelor's Degree in Information Science and Engineering from [NMAM Institute of Technology, India](https://nmamit.nitte.edu.in/)
+Bachelor's Degree in Information Science and Engineering from [NMAM Institute of Technology, India](https://nmamit.nitte.edu.in/) 2017-2021
 
 ## Contact Me
 * :house: Swindon, United Kingdom 
