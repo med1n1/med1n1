@@ -20,9 +20,9 @@ I am currently located in Swindon with an active right to work status. I am open
 You can find my [Resume](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf) here. 
 
 ## :tada: Achivements 
-- [Silver Star](https://github.com/med1n1/med1n1/blob/test/Files/silver-award-certificate-MBRDI.pdf) for my contribution in MBRDI
-- Graduted my bachelor's with silver award :2nd_place_medal:
-- Best outgoing student for the batch 2017-21 :trophy: 
+- :star: [Silver Star](https://github.com/med1n1/med1n1/blob/test/Files/silver-award-certificate-MBRDI.pdf) for my contribution in MBRDI
+- :2nd_place_medal: Graduted my bachelor's with silver award 
+- :trophy: Best outgoing student for the batch 2017-21  
 
 ## Skills
 <div id="header" align="center">
