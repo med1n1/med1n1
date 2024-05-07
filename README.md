@@ -21,12 +21,14 @@ You can find my resume here.
 
 ## Skills
 
-## Projects
-* Java Project- 
+## Projects and Files
+* [Java Project](https://github.com/med1n1/Project_Java)
+* [Sample Azure pipeline](https://github.com/med1n1/mslearn-tailspin-spacegame-web/blob/main/azure-pipelines.yml)
 
 ## Training
 
 ## Contact Me
+* :house: Swindon, United Kingdom 
 * :calling: +44 7493815238
 * :email: mediniaithal24@gmail.com
 *  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/medini-aithal-b11bb1179)
