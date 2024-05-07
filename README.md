@@ -21,6 +21,9 @@ You can find my [Resume](https://github.com/med1n1/med1n1/blob/test/Files/Resume
 - Best outgoing student for the batch 2017-21 :trophy: 
 
 ## Skills
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## Projects and Files
 * [Java Project](https://github.com/med1n1/Project_Java)
