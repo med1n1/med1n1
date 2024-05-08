@@ -1,5 +1,5 @@
 ## :woman_technologist: About Me 
-I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> enthusiastic Seeking to leverage my skills and experience to contribute to the success of a dynamic organization focused on innovation and growth.
+I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> enthusiastic seeking to leverage my skills and experience to contribute to the success of a dynamic organization focused on innovation and growth.
 - :office: Previously worked as a DevOps consultant in Mercedes Benz Research and Devlopment India (MBRDI)
 - :house: Currently settled in Swindon, United Kingdom with active Right to work
 - :computer: Undergoing Azure DevOps training to enrich my knowledge and expand my skills
