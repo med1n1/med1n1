@@ -17,7 +17,7 @@ Outside of my professional experience, I have developed proficiency in a wide ra
 I am currently located in Swindon with an active right to work status. I am open to work in-office/hybrid/Remote -->
 
 ## :page_facing_up: Resume 
-Detailed description of my professional experience can be found [here](https://github.com/med1n1/med1n1/blob/test/Files/Resume-Medini%20Aithal.pdf). 
+Detailed description of my professional experience can be found [here](https://github.com/med1n1/med1n1/blob/main/Files/Resume-Medini_Aithal.pdf). 
 
 ## Education 
 Bachelor's Degree in Information Science and Engineering from [NMAM Institute of Technology, India](https://nmamit.nitte.edu.in/)
